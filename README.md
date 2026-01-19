@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
 
 # 👋 Hi, I'm Jayant Raj  
 
