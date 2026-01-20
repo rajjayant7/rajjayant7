@@ -1,5 +1,4 @@
-<img src="" width="100%" alt="banner" />
-
+<img src="https://raw.githubusercontent.com/rajjayant7/rajjayant7/main/WhatsApp%20Image%202026-01-18%20at%205.19.32%20PM.jpeg" width="100%" alt="banner" />
 # 👋 Hey there, I'm JAYANT RAJ
 
 ### 💻 Beginner Full-Stack Developer | 🌱 Learning Everyday
