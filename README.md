@@ -37,8 +37,7 @@
 - Advanced Diploma in Computer Application (ADCA)
 - 🐍 Python (Intermediate) 
 - ☕ Java (Basic) –
--
--  🧩 Problem Solving – 
+- 🧩 Problem Solving – 
 
 ---
 
